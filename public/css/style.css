@@ -12,8 +12,11 @@ html {
 
 body {
   margin: 0;
-  /* background-color: #1f3e64; */
-  background-image: url("../img/bg-nodejs.jpg");
+  background-image: url("../img/gray.jpg"); 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; 
+  background-attachment: fixed;
   color: #6c7686;
 }
 
